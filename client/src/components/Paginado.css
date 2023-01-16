@@ -1,0 +1,27 @@
+.number {
+    margin-left: 10px;
+    align-items: center;
+    display: inline;
+    padding: 8px;
+  }
+  
+  .btn {
+    background-color: #ff8800;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    width: 50px;
+    height: 40px;
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+  
+  .btn:focus {
+    outline: none;
+  }
+  
+  .btn:hover {
+    cursor: pointer;
+    background-color: #158000;
+    color: #ffffff;
+  }
+  

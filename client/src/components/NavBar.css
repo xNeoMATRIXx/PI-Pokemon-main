@@ -1,0 +1,27 @@
+.logo {
+  width:140px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 5px;
+  transform: translate(0px,-18px)
+}
+
+.created {
+  box-shadow: #ffae00;
+  float: right;
+  margin-top: 20px;
+  margin-right: 30px;
+  font-size: 25px;
+  color: #ffae00; 
+  font-family:Arial, Helvetica, sans-serif;
+  transition-duration: 0.4s
+}
+.created:hover{
+  color: #FFFF00; 
+}
+
+.header {
+  overflow: hidden;
+  height: 70px;
+  background-color: #000000; 
+}

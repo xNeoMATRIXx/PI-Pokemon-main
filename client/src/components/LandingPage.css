@@ -1,0 +1,26 @@
+.button {
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    display: inline-block;
+    margin: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 30px;
+    background-color: #ff9204;
+    color: #ffffff;
+    letter-spacing: 4px;
+    font-size: 24px;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 1s;
+    border: none;
+    border-radius: 20px;
+}
+
+  
+.button:hover {
+    cursor: pointer;
+    background: #6de20d; 
+    box-shadow: 0 0 10px #52b027, 0 0 40px #70b027, 0 0 80px #81dd09; 
+  }
+  

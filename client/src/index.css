@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  width: 100%;
+  height: 100%;
+}
+body {
+  background: url("https://scontent.faep9-2.fna.fbcdn.net/v/t39.30808-6/295500328_163985402847954_5144481319986417323_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=8gmETw25vowAX9h3Ow1&_nc_ht=scontent.faep9-2.fna&oh=00_AfDiIypMcYCclh6at_Xnlq38kSJ7d77c-4QpLNH0N74Eag&oe=63C10727");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
